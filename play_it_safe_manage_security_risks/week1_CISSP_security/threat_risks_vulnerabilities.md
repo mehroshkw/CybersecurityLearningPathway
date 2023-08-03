@@ -48,3 +48,4 @@ Organizations must decide whether to store private customer, employee, and outsi
 - Damage to Organization's Reputation
 A solid customer base supports an organization's mission, vision, and financial goals. An exploited vulnerability can lead customers to seek new business relationships with competitors or create bad press that causes permanent damage to an organization's reputation. The loss of customer data doesn't only affect an organization's reputation and financials, it may also result in legal penalties and fines. Organizations are strongly encouraged to take proper security measures and follow certain protocols to prevent the significant impact of threats, risks, and vulnerabilities. By using all the tools in their toolkit, security teams are better prepared to handle an event such as a ransomware attack.
 
+https://csrc.nist.gov/projects/risk-management/about-rmf
