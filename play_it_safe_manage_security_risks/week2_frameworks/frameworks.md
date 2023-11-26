@@ -153,3 +153,24 @@ Many organizations work with third-party partners. These outside partners often 
 The security of key systems should not rely on keeping details hidden. Consider the following example from OWASP (2016):
 
 The security of an application should not rely on keeping the source code secret. Its security should rely upon many other factors, including reasonable password policies, defense in depth, business transaction limits, solid network architecture, and fraud and audit controls.
+
+
+## Security Audits
+A security audit is a review of an organization's security controls, policies, and procedures against a set of expectations.
+
+There are two main types of security audits: external and internal. We'll focus on internal security audits because those are the types of audits that entry-level analysts might be asked to contribute to.
+
+An internal security audit is typically conducted by a team of people that might include an organization's compliance officer, security manager, and other security team members. Internal security audits are used to help improve an organization's security posture and help organizations avoid fines from governing agencies due to a lack of compliance. Internal security audits help security teams identify organizational risk, assess controls, and correct compliance issues.
+
+## Scope
+
+Scope refers to the specific criteria of an internal security audit. Scope requires organizations to identify people, assets, policies, procedures, and technologies that might impact an organization's security posture. Goals are an outline of the organization's security objectives, or what they want to achieve in order to improve their security posture.
+
+Although more senior-level security team members and other stakeholders usually establish the scope and goals of the audit, entry-level analysts might be asked to review and understand the scope and goals in order to complete other elements of the audit.
+
+As an example, the scope of this audit involves assessing user permissions; identifying existing controls, policies, and procedures; and accounting for the technology currently in use by the organization. The goals outlined include implementing core functions of frameworks, like the NIST CSF; establishing policies and procedures to ensure compliance; and strengthening system controls.
+
+## risk assessment
+The next element is conducting a risk assessment, which is focused on identifying potential threats, risks, and vulnerabilities. This helps organizations consider what security measures should be implemented and monitored to ensure the safety of assets. Similar to establishing the scope and goals, a risk assessment is oftentimes completed by managers or other stakeholders. However, you might be asked to analyze details provided in the risk assessment to consider what types of controls and compliance regulations need to be in place to help improve the organization's security posture.
+
+For example, this risk assessment highlights that there are inadequate controls, processes, and procedures in place to protect the organization's assets. Specifically, there is a lack of proper management of physical and digital assets, including employee equipment. The equipment used to store data is not properly secured. And access to private information stored in the organization's internal network likely needs more robust controls in place.
